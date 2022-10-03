@@ -1,0 +1,22 @@
+
+body{
+    width:100%;
+    height:400px;
+
+}
+
+#slideshow{
+   
+    width:95%;
+    height:400px;
+    margin: auto;
+    margin-top: 20px ;
+    transition: all 0.3s;
+   
+}
+#slideshow>img{
+  
+    width:100%;
+  
+    height: 500px;
+}
